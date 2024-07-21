@@ -9,7 +9,7 @@ Feature Scaling
 Training the dataset
 Reshaping the dataset
 
-### IN PART 2 WE'LL BE SEEING:
+#### IN PART 2 WE'LL BE SEEING:
 
 Importing the Keras libraries and packages
 Initialising,adding layers,compiling and fitting the RNN
